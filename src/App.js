@@ -2,6 +2,7 @@ import "./App.css";
 import React, { useState } from "react";
 import Counter from "./Counter";
 import Greeting from "./Greeting";
+import { TodoList } from "./ToDoList";
 
 function Header() {
   return (
@@ -87,6 +88,7 @@ function App() {
       <Counter />
       <Example />
       <Footer />
+      <TodoList />
     </div>
   );
 }
