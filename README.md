@@ -6,7 +6,7 @@
 | **Nama**  | Rafio Sadani                 |
 | **Kelas** | TI - 4K                      |
 
-## Langkah-langkah Praktikum
+## Langkah-Langkah Praktikum
 
 1. Membuat dan menambahkan component `Header`, `Main`, dan `Footer` ke dalam file App.js.
    ![Hasil Tampilan Component Header, Main, dan Footer](public/image-docs/practical-steps/create-header-main-footer.png "Hasil Tampilan Component Header, Main, dan Footer")
